@@ -1,0 +1,11 @@
+body {
+  background-image: url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia20051-nustarsolo.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.notFound {
+  margin-top: 50%;
+  margin: 0px auto;
+}
